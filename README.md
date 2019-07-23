@@ -1,0 +1,1 @@
+The project is about me be able to break down google home page and rebuild it back up. I will be using HTML and CSS in this process. 
