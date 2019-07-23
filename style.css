@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header 
+{
+background-image: url(cr7.jpg);
+height: 100px;
+background-size: cover;
+background-position: center;
+
+}
